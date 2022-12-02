@@ -4,3 +4,6 @@ Q1: (a). AB->C, BC->E, D->E, CF->B
 Q3: (a). (i). b
          (ii). bd
          (iii). ab, ad, cd
+    (b). (i). 2NF
+         (ii). 1NF
+         (iii). 3NF
